@@ -5,13 +5,15 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check_Even_Odd", "Check_Even_Odd.csproj", "{9B64A1B0-E991-4241-A5EA-77BDF4E86C3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check_No_Divisible_by_Any_no", "..\Check_No_Divisible_by_Any_no\Check_No_Divisible_by_Any_no.csproj", "{B32F45CB-6D0A-4FB0-9E46-477B64BEFEF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check_No_Divisible_by_Any_no", "..\Check_No_Divisible_by_Any_no\Check_No_Divisible_by_Any_no.csproj", "{B32F45CB-6D0A-4FB0-9E46-477B64BEFEF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check_year_Is_leap_or_not", "..\Check_year_Is_leap_or_not\Check_year_Is_leap_or_not.csproj", "{6C89EE3F-9770-4FF6-B286-44A8E45BA858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check_year_Is_leap_or_not", "..\Check_year_Is_leap_or_not\Check_year_Is_leap_or_not.csproj", "{6C89EE3F-9770-4FF6-B286-44A8E45BA858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two_number_comparison", "..\two_number_comparison\two_number_comparison.csproj", "{6C72E0B4-58A2-42F6-8742-D05849877B1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "two_number_comparison", "..\two_number_comparison\two_number_comparison.csproj", "{6C72E0B4-58A2-42F6-8742-D05849877B1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "three_number_maximum", "..\three_number_maximum\three_number_maximum.csproj", "{FA61D0CD-7231-492A-B378-894B7C36FCA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "three_number_maximum", "..\three_number_maximum\three_number_maximum.csproj", "{FA61D0CD-7231-492A-B378-894B7C36FCA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temperature_range_classification", "..\temperature_range_classification\temperature_range_classification.csproj", "{6E8D36B2-1EC9-4DF4-B409-9BAF8F258225}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FA61D0CD-7231-492A-B378-894B7C36FCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA61D0CD-7231-492A-B378-894B7C36FCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA61D0CD-7231-492A-B378-894B7C36FCA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8D36B2-1EC9-4DF4-B409-9BAF8F258225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8D36B2-1EC9-4DF4-B409-9BAF8F258225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8D36B2-1EC9-4DF4-B409-9BAF8F258225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8D36B2-1EC9-4DF4-B409-9BAF8F258225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
